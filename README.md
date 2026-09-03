@@ -420,7 +420,7 @@ Whether you're interested in MCP, AI tooling, APIs, Python, or developer tools, 
 
 ## 📜 License
 
-APEACH2.0 License
+Apache License 2.0
 
 ---
 
